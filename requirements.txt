@@ -1,4 +1,5 @@
 opcua
+opcua.Client
 streamlit
 pandas
 numpy
