@@ -1,0 +1,7 @@
+opcua
+streamlit
+pandas
+numpy
+plotly
+datetime
+connection
