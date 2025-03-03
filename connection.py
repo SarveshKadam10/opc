@@ -2,7 +2,7 @@
 from opcua import Client
 
 # Kepware OPC UA server (No security)
-url = "opc.tcp://192.168.15.227:49320"
+url = "opc.tcp://127.0.0.1:49320"
 
 # Created a client instance
 client = Client(url)
